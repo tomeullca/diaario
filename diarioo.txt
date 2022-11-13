@@ -1,2 +1,4 @@
 suma
 resta.
+multi
+dividimos
